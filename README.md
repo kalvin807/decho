@@ -2,6 +2,11 @@
 
 Echo from unix shell to discord. 🚀
 
+## Installation
+```bash
+go install github.com/kalvin807/decho@latest
+```
+
 ## Usage
 
 - `-f, --file`: Path to the attachment file (8mb max)
